@@ -4,4 +4,4 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 
 #Objective
 
- Rockbusters Business Intelligence team will assist in the launch of the new online service's strategy base on the data provided by the client. 
+ Rockbusters Business Intelligence team will assist in the launch of the new online service's strategy base on the data provided by the client.
