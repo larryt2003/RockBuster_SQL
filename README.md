@@ -11,13 +11,13 @@ Rockbusters Business Intelligence team will assist in the launch of the new onli
 
 The data are provided in the breif by Rockbusters. The data set contained the following information:
 
-Fact Tables
+**Fact Tables**
 
-Payment
+*Payment
 
-Rental
+*Rental
 
-Dimension Tables
+**Dimension Tables**
 
 Actor
 
