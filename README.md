@@ -6,41 +6,40 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 
 Rockbusters Business Intelligence team will assist in the launch of the new online service's strategy base on the data provided by the client.
  
-
-### Data
+## Data
 
 The data are provided in the breif by Rockbusters. The data set contained the following information:
 
 **Fact Tables**
 
-*Payment
+* Payment
 
-*Rental
+* Rental
 
 **Dimension Tables**
 
-Actor
+* Actor
 
-Address
+* Address
 
-Category
+* Category
 
-City
+* City
 
-Country
+* Country
 
-Customer
+* Customer
 
-Fim
+* Fim
 
-Film Actor
+* Film Actor
 
-Film Category
+* Film Category
 
-Inventory
+* Inventory
 
-Language
+* Language
 
-Staff
+* Staff
 
-Store
+* Store
