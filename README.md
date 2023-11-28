@@ -9,4 +9,22 @@ Rockbusters Business Intelligence team will assist in the launch of the new onli
 
 ### Data
 
-The data are provided in the breif by Rockbusters
+The data are provided in the breif by Rockbusters. The data set contained the following information:
+
+Fact Tables
+Payment
+Rental
+Dimension Tables
+Actor
+Address
+Category
+City
+Country
+Customer
+Fim
+Film Actor
+Film Category
+Inventory
+Language
+Staff
+Store
