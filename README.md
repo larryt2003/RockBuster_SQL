@@ -43,3 +43,7 @@ The data are provided in the breif by Rockbusters. The data set contained the fo
 * Staff
 
 * Store
+
+  ## **Visualisation**
+  Visualizations were created in Tableau
+  https://public.tableau.com/app/profile/olanrewaju.tayo.oduwole/viz/Top10customerrevenueandbaseA/Sheet12?publish=yes 
